@@ -12,9 +12,9 @@ import java.awt.*;
 import java.util.ArrayList;
 
 @ScriptManifest(
-        name = "Brocks Woodcutter",
+        name = "Woodcutter",
         author = "EternalClient",
-        description = "FUCK",
+        description = "Woodcutter",
         category = ScriptCategory.WOODCUTTING,
         version = 1.0
 )
