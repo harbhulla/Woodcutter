@@ -12,10 +12,11 @@ repositories {
 dependencies {
     // Adding the EternalClient API as a compileOnly dependency.
     compileOnly(files("${userHomeDir}/EternalClient/Data/EternalClient.jar"))
+
 }
 
 // Changing this will make it so that the jar file is named differently
-val scriptFileName: String = "EternalClientScript"
+val scriptFileName: String = "Brock's Woodcutter"
 
 tasks {
     jar {
